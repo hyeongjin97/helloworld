@@ -15,7 +15,7 @@
 
 ## 2. 나의 소개 발표 동영상
 GitHub 과제 동영상입니다.
-<iframe width="853" height="480" src="https://www.youtube.com/embed/9oF0bDb0TcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="887" height="499" src="https://www.youtube.com/embed/H37v4h77ty4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
  
